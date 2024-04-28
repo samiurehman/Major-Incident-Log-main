@@ -1,4 +1,4 @@
-Import  respository/download the attached file into your system 
+Import  repository/download the attached file into your system 
 install node.js (check you system specification) 
 Open the download folder or respository file in your system 
 type command in terminal cd durhampolice 
