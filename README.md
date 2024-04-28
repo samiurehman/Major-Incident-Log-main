@@ -1,6 +1,6 @@
 Import  repository/download the attached file into your system 
 install node.js (check you system specification) 
-Open the download folder or respository file in your system 
+Open the download folder or repository file in your system 
 type command in terminal cd durhampolice 
 then type npm install in terminal 
 type npm run dev
